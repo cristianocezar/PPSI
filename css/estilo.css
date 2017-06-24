@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+body{
+    background-color: #c2e0ed;
+}
+article{
+    
+    background-color: #fdfdfd;
+    padding: 0px;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-bottom: 0%;
+}
+
+
+.navbar {
+    padding: 1px;
+    margin-left: 1%;
+    margin-right: 1%;
+        
+}
+.navbar-header{
+
+
+    
+}
+
+.navbar-brand{
+    
+    text-transform: uppercase;    
+}
+
+.navbar-toggle{
+    margin-left: 1%;
+}
+
+.dropdown-menu{
+    text-align: center;
+}
+
+section{
+    padding-top: 5%;
+    
+        
+}
+section p{
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;    
+    text-align: justify;
+   
+        
+}
+
+
+.imgitem{
+    height: 100%;
+    padding-top: 5%;
+    margin-left: 33%;
+        
+    
+}
+.imgitem2{
+    width: 85%;
+    margin: 10%;
+    padding-top: 10%;
+    
+        
+    
+}
+.imgitem3{
+    width: 55%;
+    margin-left: 22%;
+        
+    
+}
+section h2{
+    text-align: center;
+    
+}
+
+
+img.face {
+    margin 5px;
+	padding: 0px;
+    width: 60px;
+}
+img.email {
+	margin: 5px;
+    padding: 0px;
+    width: 50px;
+}
+
+img.imgheader {
+    position: relative;
+	padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 1%;
+    width: 100%;
+}
+header h3.titulo{
+    color: black;
+    font-family:cursive;
+    font-style: italic;
+    font-size: 45px
+    
+}
+.navbar-brand{
+    font-size: 14px;
+    
+}
+
+body {
+  padding-top: 20px;
+}
+
+footer {
+  color: hsl(0, 0%, 100%);    
+  background-color: hsl(0, 0%, 18%);
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  text-align: center;
+
+}
+.nav {
+text-transform: uppercase;
+text-align: center;
+ 
+}
+.nav-footer {
+list-style: none;
+text-decoration: none;
+text-transform: uppercase;
+text-align: center;  
+display: block;
+}
+
